@@ -8,3 +8,7 @@ wheels/
 
 # Virtual environments
 .venv
+
+# AI agent config files
+.agents
+.claude
